@@ -22,6 +22,9 @@ Welcome to the intriguing world of our ESP32-based Magic WiFi Signal Generator! 
 
 **How It Works:**
 
+![Mi Imagen]([https://ruta_completa_de_la_imagen.com/mi_imagen.jpg](https://github.com/MiTecHoy/MagicESP32/blob/main/img/IMG_3632.JPG))
+
+
 1. **Setup**: The code starts by initializing the ESP32 and creating a soft Access Point (AP) with a predefined SSID (in this case, "MagicESP32"). This AP acts as a custom WiFi network that the phones of the spectators will connect to.
 
 2. **Web Interface**: The code sets up a web server that serves a simple HTML page. This page allows you to change the SSID of the soft AP dynamically. The web interface can be accessed by navigating to the ESP32's IP address in a web browser.

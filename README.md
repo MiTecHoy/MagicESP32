@@ -35,6 +35,8 @@ Welcome to the intriguing world of our ESP32-based Magic WiFi Signal Generator! 
 
 **How to Use It:**
 
+![Texto alternativo](https://raw.githubusercontent.com/MiTecHoy/MagicESP32/main/img/IMG_3646.PNG)
+
 1. **Setup Hardware**: Load this code onto your ESP32 board using the Arduino IDE or a compatible platform. Ensure that the ESP32 is connected to power and that it can create a WiFi network.
 
 2. **Access Web Interface**: Connect a device (laptop, smartphone, etc.) to the soft AP "MagicESP32" created by the ESP32. Open a web browser and enter the IP address provided by the ESP32 in the Serial Monitor. This will display the web interface.

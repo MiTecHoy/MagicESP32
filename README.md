@@ -10,7 +10,7 @@ But how do we achieve this incredible effect? That's part of the magic! The care
 
 This project not only showcases how technology can blend with magic but also highlights the versatility of the ESP32 in creating creative and interactive solutions. Can you imagine the look of surprise on the faces of your friends and family when their own phones reveal the secret card they chose? Get ready to impress and leave everyone wondering how you did it!
 
-Whether you're a magic enthusiast, a tech aficionado, or just someone looking for a unique trick to amaze others, this ESP32 IoT magic trick project is sure to captivate you. Download the code, follow the instructions, and get ready to deliver an unforgettable show that combines the best of two seemingly opposite worlds!
+Whether you're a magic enthusiast, a tech fan, or just someone looking for a unique trick to amaze others, this ESP32 IoT magic trick project is sure to captivate you. Download the code, follow the instructions, and get ready to deliver an unforgettable show that combines the best of two seemingly opposite worlds!
 
 
 Magic WiFi Signal Generator with ESP32: How it Works and How to Use it

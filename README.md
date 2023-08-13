@@ -2,6 +2,9 @@
 
 ESP32 Magic Trick: Chosen Card as WiFi Signal
 
+![Texto alternativo](https://raw.githubusercontent.com/MiTecHoy/MagicESP32/main/img/IMG_3640.PNG)
+
+
 Welcome to the fascinating world of tech-infused magic with the ESP32! In this exciting project, we combine the mystery of magic with the power of technology to create an astonishing and one-of-a-kind trick. Imagine a spectator randomly chooses a card from a deck, and, without anyone else knowing, that card magically appears as a WiFi signal on the spectators' phones!
 
 Our magic trick utilizes an ESP32, a versatile and powerful microcontroller, which connects to a WiFi network. After the spectator chooses their card, the ESP32 translates that choice into code and generates a custom WiFi signal corresponding to the chosen card. The phones of the spectators will start displaying this unique WiFi signal, leaving everyone in awe.
